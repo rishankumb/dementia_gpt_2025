@@ -1,0 +1,13 @@
+.idea
+api.yaml
+*.txt
+*.json
+*.xlsx
+Output
+Output-v2
+output_files_set_1_GPT
+output_files_set_1_LLaMA
+old
+*.csv
+models.py
+query.py
